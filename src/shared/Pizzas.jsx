@@ -1,8 +1,8 @@
 import margherita from "../assets/images/PizzaDeMargherita.png"
 import calabresa from "../assets/images/PizzaCalabresa.png"
-import vegetariana from "../assets/images/PizzaVegetarian.png"
+import vegetariana from "../assets/images/PizzaVegetariana.png"
 import havaiana from "../assets/images/PizzaHavaiana.png"
-import bacon from "../assets/images/PizzaHavaiana.png"
+import bacon from "../assets/images/PizzaCalabresa.png"
 
 const Pizzas = [
     {
